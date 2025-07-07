@@ -32,7 +32,7 @@ DOMAIN-SUFFIX,apa.org
 DOMAIN-SUFFIX,apress.com
 DOMAIN-SUFFIX,aps.org
 DOMAIN-SUFFIX,art1lib.com
-DOMAIN-SUFFIX,arxiv.org
+# DOMAIN-SUFFIX,arxiv.org
 DOMAIN-SUFFIX,ascelibrary.org
 DOMAIN-SUFFIX,asha.org
 DOMAIN-SUFFIX,asm.org
